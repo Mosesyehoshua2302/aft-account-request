@@ -4,7 +4,7 @@ module "sme-network-hub" {
   control_tower_parameters = {
     AccountEmail              = "mosesye+smenetworkhub@amazon.com"
     AccountName               = "sme-network-hub-aft"
-    ManagedOrganizationalUnit = "Root"
+    ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "mosesye@amazon.com"
     SSOUserFirstName          = "sme-network-hub"
     SSOUserLastName           = "AFT"

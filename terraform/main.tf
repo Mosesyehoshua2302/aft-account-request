@@ -7,7 +7,7 @@ module "finops_account" {
   control_tower_parameters = {
     AccountEmail = "mosesye+smeaccount@amazon.com"
     AccountName  = "AFT Sandbox"
-    ManagedOrganizationalUnit = "Root"
+    ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail     = "mosesye+smeaccount@amazon.com"
     SSOUserFirstName = "SME"
     SSOUserLastName  = "AdmiAccountn"
